@@ -4,4 +4,4 @@
 - substitube into `json` variable in `parse.json`
 - substitute your request path match pattern in `MATCH_PATTERN` in `parse.json`
 - run `node parse.js`
-- view results in parsed.txt (it will be overwritten everytime you run `parse.js`)
+- view results in `parsed.txt` (it will be overwritten everytime you run `parse.js`)
